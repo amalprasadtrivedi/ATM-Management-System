@@ -2,6 +2,9 @@
 
 A **Java-based ATM Management System** that simulates basic banking functionalities like cash withdrawal, deposit, balance inquiry, and PIN management. This project is designed to provide a user-friendly interface and secure transaction handling.
 
+![image](https://github.com/user-attachments/assets/2bb76553-9ff3-4609-ab16-b3e6727be0f2)
+
+ 
 ---
 
 ## Features
