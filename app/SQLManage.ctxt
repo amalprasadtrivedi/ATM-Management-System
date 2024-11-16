@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=SQLManage
+comment1.params=
+comment1.target=SQLManage()
+comment2.params=usr\ pass
+comment2.target=java.sql.ResultSet\ check(java.lang.String,\ java.lang.String)
+comment3.params=amt\ id
+comment3.target=void\ deposit(int,\ int)
+comment4.params=amt\ id
+comment4.target=int\ withdraw(int,\ int)
+comment5.params=pin\ id
+comment5.target=void\ pinchange(java.lang.String,\ int)
+comment6.params=id
+comment6.target=int\ balCheck(int)
+comment7.params=id
+comment7.target=java.sql.ResultSet\ stmt(int)
+comment8.params=card\ pin\ name\ bal
+comment8.target=void\ adding(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+numComments=9
